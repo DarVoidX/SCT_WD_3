@@ -4,6 +4,15 @@
 
 This project is an interactive Quiz Game Application developed using HTML, CSS, and JavaScript.
 
+### 🔗 Live Demo
+Access the live application here: **[Quiz Master Live Demo](https://darvoidx.github.io/SCT_WD_3/)**
+
+---
+
+<p align="center">
+  <img src="task3.png" alt="Quiz Master Screenshot" width="600" style="max-width: 100%; height: auto;">
+</p>
+
 ## Features
 
 - Multiple Choice Questions
@@ -40,16 +49,6 @@ Darshan Naidu
 ## GitHub Repository
 
 [SkillCraft Web Development Internship - Task 3](https://github.com/DarVoidX/SCT_WD_3)
-
-## Live Demo
-
-You can view the live demo of the application here: [Quiz Master Live Demo](https://darvoidx.github.io/SCT_WD_3/)
-
-## Screenshot
-
-<p align="center">
-  <img src="task3.png" alt="Quiz Master Screenshot" width="600" style="max-width: 100%; height: auto;">
-</p>
 
 ## Project Status
 
